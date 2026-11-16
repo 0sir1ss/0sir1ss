@@ -6,7 +6,7 @@ class osiris(ReadMe):
         self.username = "0sir1s"
         self.name = "James"
         self.language = "English"
-        self.used_programming_languages = ["Python", "Javascript", "Typescript", "C++"]
+        self.used_programming_languages = ["Python", "Javascript", "C++"]
         self.location = "United Kingdom"
         self.education = "2 Years of Computer Science"
 
